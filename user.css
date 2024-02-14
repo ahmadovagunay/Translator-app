@@ -1,0 +1,89 @@
+.Transverkh{
+   text-align: center;
+   background-color: rgb(16, 142, 14);
+   color:aliceblue;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   margin-left: auto;
+   margin-right: auto;
+   width: 55%;
+   border-radius: 30px;
+   font-style: italic;
+
+  border: 2px solid rgb(7, 88, 31);
+}
+
+body{
+   background-image: url(worlll.jpg);
+   background-size: cover;
+
+   
+}
+.Textgeneral{
+    text-align: center;
+ }
+.text1{
+  margin-top: 5%;
+  margin-right: 32px;
+  height: 150px;
+  width: 25%;
+  border-radius: 20px;
+  border: 2px solid rgb(117, 115, 115);
+  background-color: rgb(228, 226, 226);
+  font-family: 'Courier New', Courier, monospace;
+  font-style:italic ;
+  
+}
+
+.text2 {
+    height: 150px;
+  width: 25%;
+    border-radius: 20px;
+    background-color: rgb(228, 226, 226);
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic ;
+    border: 2px solid rgb(117, 115, 115);
+   
+}
+img{
+    width: 100%;
+}
+.select1 {
+  width: 13%;
+  height: 77px;
+  font-family: fantasy ;
+  font-size: 16px;
+  font-style: italic;
+  margin-right: 100px;
+  border-radius: 15%;
+  border: 4px solid rgb(184, 184, 6);
+  background-color: rgb(254, 254, 5);
+
+}
+.select2 {
+    width: 13%;
+    height: 77px;
+    font-family: fantasy ;
+    font-size: 16px;
+    font-style: italic;
+   border-radius: 15%;
+   border: 4px solid rgb(184, 184, 6);
+   background-color: rgb(254, 254, 5);
+   margin-left: 55px;
+  
+
+}
+
+.btn{
+  background-color: rgb(226, 179, 180);
+  margin-top: 20px;
+  border: 2px solid rgb(174, 26, 26);
+  font-style: italic;
+  font-weight: 700;
+}
+.btnn {
+  text-align: center;
+}
+.selectgeneral {
+  text-align: center;
+}
